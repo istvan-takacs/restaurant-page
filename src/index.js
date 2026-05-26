@@ -1,0 +1,1 @@
+console.log("Some info about my restaurant!")
